@@ -73,6 +73,22 @@ By the end of this lab, I was able to:
 
 ---
 
+## Screenshots
+
+### ALB DNS Result
+![ALB DNS Result](screenshots/alb-dns-result.jpg)
+
+### Auto Scaling Activity - EC2 Replacement
+![ASG Activity](screenshots/asg-activity-replacement.jpg)
+
+### EC2 Instances
+![EC2 Instances](screenshots/ec2-instances.jpg)
+
+### Target Group Healthy
+![Target Group Healthy](screenshots/target-group-healthy.jpg)
+
+---
+
 ## Step 1: Create VPC and Public Subnets
 
 A custom VPC was created for this lab.
